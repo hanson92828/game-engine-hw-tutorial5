@@ -1,0 +1,4 @@
+﻿cl : 命令列  warning D9035: 選項 'Gm' 已被取代，在未來的發行版本中將會移除
+cl : 命令列  warning D9007: '/Gm' 需要 '/Zi 或 /ZI'，已忽略選項
+  matrix_func.cpp
+  Spacesim.vcxproj -> C:\Users\hanson\Desktop\碩士\數位遊戲繪圖引擎\spacesimulator.net_tutorial5 VS2022\Debug\Spacesim.exe

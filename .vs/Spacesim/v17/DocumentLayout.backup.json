@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E7095E-A999-43D2-9DBA-65E25C8C2951}|Spacesim.vcxproj|C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6E7095E-A999-43D2-9DBA-65E25C8C2951}|Spacesim.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E7095E-A999-43D2-9DBA-65E25C8C2951}|Spacesim.vcxproj|C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\matrix_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6E7095E-A999-43D2-9DBA-65E25C8C2951}|Spacesim.vcxproj|solutionrelative:matrix_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E7095E-A999-43D2-9DBA-65E25C8C2951}|Spacesim.vcxproj|C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\vector_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B6E7095E-A999-43D2-9DBA-65E25C8C2951}|Spacesim.vcxproj|solutionrelative:vector_func.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "matrix_func.cpp",
+              "DocumentMoniker": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\matrix_func.cpp",
+              "RelativeDocumentMoniker": "matrix_func.cpp",
+              "ToolTip": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\matrix_func.cpp",
+              "RelativeToolTip": "matrix_func.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T02:02:06.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAI4AAAAAAAAAAAA2wK8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-14T00:34:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vector_func.cpp",
+              "DocumentMoniker": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\vector_func.cpp",
+              "RelativeDocumentMoniker": "vector_func.cpp",
+              "ToolTip": "C:\\Users\\hanson\\Desktop\\\u78A9\u58EB\\\u6578\u4F4D\u904A\u6232\u7E6A\u5716\u5F15\u64CE\\spacesimulator.net_tutorial5 VS2022\\vector_func.cpp",
+              "RelativeToolTip": "vector_func.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-28T02:01:39.561Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
