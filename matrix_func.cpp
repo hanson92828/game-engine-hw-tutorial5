@@ -16,6 +16,14 @@ float* matrix_substract(float a[], float b[]) {
 	return c;
 }
 
+float* matrix_substract(float a[], float b[]) {
+	float* c = new float[16];
+	for (int i = 0; i < 16; i++) {
+		c[i] = a[i] - b[i];
+	}
+	return c;
+}
+
 float* multiplication(float a[], float b[]) {
 	float* c = new float[16];
 	c[0] = a[0] * b[0] + a[4] * b[1] + a[8] * b[2] + a[12] * b[3];
