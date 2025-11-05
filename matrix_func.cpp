@@ -9,7 +9,7 @@ float* matrix_add(float a[], float b[]) {
 }
 
 float* matrix_substract(float a[], float b[]) {
-    int x;
+    int z;
 	float* c = new float[16];
 	for (int i = 0; i < 16; i++) {
 		c[i] = a[i] - b[i];
