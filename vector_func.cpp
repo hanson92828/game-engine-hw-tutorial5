@@ -31,8 +31,7 @@ v4d ProjPQ(v4d P, v4d Q) { // projection P on Q
 }
 
 v4d cross(v4d P, v4d Q) {
-    int a;
-    return { P.y * Q.z - P.z * Q.y, P.z * Q.x - P.x * Q.z, P.x * Q.y - P.y * Q.x ,P.w };
+    return normalization({ P.y * Q.z - P.z * Q.y, P.z * Q.x - P.x * Q.z, P.x * Q.y - P.y * Q.x ,P.w });
 }
 
 v4d PerpPQ(v4d P, v4d Q) {
